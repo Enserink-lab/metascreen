@@ -1,0 +1,27 @@
+Package: modscr
+Type: Package
+Title: A modular library with a set of tools for the design and analysis of drug combination screens
+Version: 0.1.0
+Date: 2021-03-03
+Author: Robert Hanes
+Maintainer: Robert Hanes <robert.hanes@medisin.uio.no>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL (>= 3) + file LICENSE
+Imports:
+    stats,
+    utils,
+    XML,
+    ggplot2,
+    ggrepel,
+    gridExtra,
+    drc,
+    grDevices,
+    graphics,
+    bayesynergy,
+    rstan
+Depends: 
+    R (>= 3.6.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2

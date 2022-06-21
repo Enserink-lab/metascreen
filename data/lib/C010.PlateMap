@@ -1,0 +1,2289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plateMap>
+  <referenceItemManager>
+    <referenceItems>
+      <referenceItem type="Compound" description="Venetoclax" displayName="Venetoclax" colorArgb="-1490880" />
+      <referenceItem type="Compound" description="Methotrexate" displayName="Methotrexate" colorArgb="-1476288" />
+      <referenceItem type="Compound" description="Cladribine" displayName="Cladribine" colorArgb="-1461952" />
+      <referenceItem type="Compound" description="Everolimus" displayName="Everolimus" colorArgb="-1447616" />
+      <referenceItem type="Compound" description="Cytarabine" displayName="Cytarabine" colorArgb="-5117632" />
+      <referenceItem type="Compound" description="Daunorubicin" displayName="Daunorubicin" colorArgb="-8787648" />
+      <referenceItem type="Compound" description="Lenalidomide" displayName="Lenalidomide" colorArgb="-12523200" />
+      <referenceItem type="Compound" description="GSK 525762A (I-BET 762)" displayName="GSK 525762A (I-BET 762)" colorArgb="-12523143" />
+      <referenceItem type="Compound" description="Bosutinib" displayName="Bosutinib" colorArgb="-12523087" />
+      <referenceItem type="Compound" description="CCT196969" displayName="CCT196969" colorArgb="-12523031" />
+      <referenceItem type="Compound" description="Entinostat (MS-275)" displayName="Entinostat (MS-275)" colorArgb="-12537367" />
+      <referenceItem type="Compound" description="Mocetinostat" displayName="Mocetinostat" colorArgb="-12551703" />
+      <referenceItem type="Compound" description="Quizartinib" displayName="Quizartinib" colorArgb="-12566295" />
+      <referenceItem type="Compound" description="Amsacrine" displayName="Amsacrine" colorArgb="-8830743" />
+      <referenceItem type="Compound" description="ATRA" displayName="ATRA" colorArgb="-5160727" />
+      <referenceItem type="Compound" description="Idasanutlin" displayName="Idasanutlin" colorArgb="-1490711" />
+      <referenceItem type="Compound" description="Ponatinib" displayName="Ponatinib" colorArgb="-1490767" />
+      <referenceItem type="Compound" description="Azacitidine" displayName="Azacitidine" colorArgb="-1490823" />
+      <referenceItem type="Compound" description="Decitabine" displayName="Decitabine" colorArgb="-1490823" />
+      <referenceItem type="Compound" description="Bardoxolone Methyl" displayName="Bardoxolone Methyl" colorArgb="-1490880" />
+      <referenceItem type="Compound" description="SNS-314 Mesylate" displayName="SNS-314 Mesylate" colorArgb="-1476288" />
+      <referenceItem type="Compound" description="MK-8617" displayName="MK-8617" colorArgb="-1461952" />
+      <referenceItem type="Compound" description="GSK2879552" displayName="GSK2879552" colorArgb="-1447616" />
+      <referenceItem type="Compound" description="Entospletinib (GS-9973)" displayName="Entospletinib (GS-9973)" colorArgb="-5117632" />
+      <referenceItem type="Compound" description="Vorasidenib (AG-881)" displayName="Vorasidenib (AG-881)" colorArgb="-8787648" />
+      <referenceItem type="Compound" description="Ibrutinib" displayName="Ibrutinib" colorArgb="-12523200" />
+      <referenceItem type="Compound" description="LY2603618" displayName="LY2603618" colorArgb="-12523143" />
+      <referenceItem type="Compound" description="YM155" displayName="YM155" colorArgb="-12523087" />
+      <referenceItem type="Compound" description="G007-LK" displayName="G007-LK" colorArgb="-12523031" />
+      <referenceItem type="Compound" description="Galunisertib (LY2157299)" displayName="Galunisertib (LY2157299)" colorArgb="-12537367" />
+      <referenceItem type="Compound" description="GDC-0449 (Vismodegib)" displayName="GDC-0449 (Vismodegib)" colorArgb="-12551703" />
+      <referenceItem type="Compound" description="AG-221 (Enasidenib)" displayName="AG-221 (Enasidenib)" colorArgb="-12566295" />
+      <referenceItem type="Compound" description="CHIR-98014" displayName="CHIR-98014" colorArgb="-8830743" />
+      <referenceItem type="Compound" description="Volasertib" displayName="Volasertib" colorArgb="-5160727" />
+      <referenceItem type="Compound" description="APO866 (FK866)" displayName="APO866 (FK866)" colorArgb="-1490711" />
+      <referenceItem type="Compound" description="NSC348884" displayName="NSC348884" colorArgb="-1490767" />
+      <referenceItem type="Compound" description="Gilteritinib (ASP-2215)" displayName="Gilteritinib (ASP-2215)" colorArgb="-1490823" />
+      <referenceItem type="Compound" description="FK506 (Tacrolimus)" displayName="FK506 (Tacrolimus)" colorArgb="-1490880" />
+      <referenceItem type="Compound" description="Tipifarnib" displayName="Tipifarnib" colorArgb="-1476288" />
+      <referenceItem type="Compound" description="MK-2206" displayName="MK-2206" colorArgb="-1461952" />
+      <referenceItem type="Compound" description="Ro 5-3335" displayName="Ro 5-3335" colorArgb="-1447616" />
+      <referenceItem type="Compound" description="Abemaciclib mesylate (LY2835219)" displayName="Abemaciclib mesylate (LY2835219)" colorArgb="-5117632" />
+      <referenceItem type="Compound" description="IRAK4 Inhibitor (Compound 26)" displayName="IRAK4 Inhibitor (Compound 26)" colorArgb="-8787648" />
+      <referenceItem type="Compound" description="Olaparib (AZD2281)" displayName="Olaparib (AZD2281)" colorArgb="-12523200" />
+      <referenceItem type="Compound" description="Torin2" displayName="Torin2" colorArgb="-12523143" />
+      <referenceItem type="Compound" description="Dexamethasone (DHAP)" displayName="Dexamethasone (DHAP)" colorArgb="-12523087" />
+      <referenceItem type="Compound" description="Avagacestat" displayName="Avagacestat" colorArgb="-12523031" />
+      <referenceItem type="Compound" description="EC-70124" displayName="EC-70124" colorArgb="-12537367" />
+      <referenceItem type="Compound" description="Idelalisib" displayName="Idelalisib" colorArgb="-12551703" />
+      <referenceItem type="Compound" description="Trametinib/Mekinist" displayName="Trametinib/Mekinist" colorArgb="-12566295" />
+      <referenceItem type="Compound" description="SGC 0946" displayName="SGC 0946" colorArgb="-8830743" />
+      <referenceItem type="Compound" description="MI463" displayName="MI463" colorArgb="-5160727" />
+      <referenceItem type="Compound" description="Panobinostat (LBH589)" displayName="Panobinostat (LBH589)" colorArgb="-1490711" />
+      <referenceItem type="Compound" description="Bortezomib" displayName="Bortezomib" colorArgb="-1490767" />
+      <referenceItem type="Compound" description="WP1130" displayName="WP1130" colorArgb="-1490823" />
+      <referenceItem type="Compound" description="SB 203580" displayName="SB 203580" colorArgb="-1490880" />
+      <referenceItem type="Compound" description="Lapatinib" displayName="Lapatinib" colorArgb="-1476288" />
+      <referenceItem type="Compound" description="Ruxolitinib" displayName="Ruxolitinib" colorArgb="-1461952" />
+      <referenceItem type="Compound" description="Chloroquine diphosphate salt" displayName="Chloroquine diphosphate salt" colorArgb="-1447616" />
+      <referenceItem type="Compound" description="Ganetespib" displayName="Ganetespib" colorArgb="-5117632" />
+      <referenceItem type="Compound" description="Vemurafenib" displayName="Vemurafenib" colorArgb="-8787648" />
+      <referenceItem type="Compound" description="Sapatinib" displayName="Sapatinib" colorArgb="-12523200" />
+      <referenceItem type="Compound" description="DJ34" displayName="DJ34" colorArgb="-12523143" />
+      <referenceItem type="Compound" description="WM-8014" displayName="WM-8014" colorArgb="-12523087" />
+    </referenceItems>
+  </referenceItemManager>
+  <wellStore>
+    <wells>
+      <well row="0" col="0">
+        <items>
+          <wellItem type="Compound" concentration="30" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Venetoclax" displayName="Venetoclax" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="1" />
+      <well row="0" col="2">
+        <items>
+          <wellItem type="Compound" concentration="7.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Venetoclax" displayName="Venetoclax" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="3">
+        <items>
+          <wellItem type="Compound" concentration="1.875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Venetoclax" displayName="Venetoclax" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="4">
+        <items>
+          <wellItem type="Compound" concentration="0.46875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Venetoclax" displayName="Venetoclax" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="5">
+        <items>
+          <wellItem type="Compound" concentration="0.1171875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Venetoclax" displayName="Venetoclax" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="6">
+        <items>
+          <wellItem type="Compound" concentration="5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Cladribine" displayName="Cladribine" colorArgb="-1461952" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="7" />
+      <well row="0" col="8">
+        <items>
+          <wellItem type="Compound" concentration="1" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Cladribine" displayName="Cladribine" colorArgb="-1461952" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="9">
+        <items>
+          <wellItem type="Compound" concentration="0.2" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Cladribine" displayName="Cladribine" colorArgb="-1461952" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.04" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Cladribine" displayName="Cladribine" colorArgb="-1461952" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="11">
+        <items>
+          <wellItem type="Compound" concentration="0.008" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Cladribine" displayName="Cladribine" colorArgb="-1461952" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="12">
+        <items>
+          <wellItem type="Compound" concentration="50" concentrationUnits="mM">
+            <referenceItem type="Compound" description="AG-221 (Enasidenib)" displayName="AG-221 (Enasidenib)" colorArgb="-12566295" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="13" />
+      <well row="0" col="14">
+        <items>
+          <wellItem type="Compound" concentration="12.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="AG-221 (Enasidenib)" displayName="AG-221 (Enasidenib)" colorArgb="-12566295" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="15">
+        <items>
+          <wellItem type="Compound" concentration="3.125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="AG-221 (Enasidenib)" displayName="AG-221 (Enasidenib)" colorArgb="-12566295" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="16">
+        <items>
+          <wellItem type="Compound" concentration="0.78125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="AG-221 (Enasidenib)" displayName="AG-221 (Enasidenib)" colorArgb="-12566295" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.1953125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="AG-221 (Enasidenib)" displayName="AG-221 (Enasidenib)" colorArgb="-12566295" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="18">
+        <items>
+          <wellItem type="Compound" concentration="40" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Chloroquine diphosphate salt" displayName="Chloroquine diphosphate salt" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="19" />
+      <well row="0" col="20">
+        <items>
+          <wellItem type="Compound" concentration="10" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Chloroquine diphosphate salt" displayName="Chloroquine diphosphate salt" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="21">
+        <items>
+          <wellItem type="Compound" concentration="2.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Chloroquine diphosphate salt" displayName="Chloroquine diphosphate salt" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="22">
+        <items>
+          <wellItem type="Compound" concentration="0.625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Chloroquine diphosphate salt" displayName="Chloroquine diphosphate salt" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="0" col="23">
+        <items>
+          <wellItem type="Compound" concentration="0.15625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Chloroquine diphosphate salt" displayName="Chloroquine diphosphate salt" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="0">
+        <items>
+          <wellItem type="Compound" concentration="0.15" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Methotrexate" displayName="Methotrexate" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="1" />
+      <well row="1" col="2">
+        <items>
+          <wellItem type="Compound" concentration="0.0375" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Methotrexate" displayName="Methotrexate" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="3">
+        <items>
+          <wellItem type="Compound" concentration="0.009375" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Methotrexate" displayName="Methotrexate" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="4">
+        <items>
+          <wellItem type="Compound" concentration="0.00234375" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Methotrexate" displayName="Methotrexate" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="5">
+        <items>
+          <wellItem type="Compound" concentration="0.0005859375" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Methotrexate" displayName="Methotrexate" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="6">
+        <items>
+          <wellItem type="Compound" concentration="5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Cytarabine" displayName="Cytarabine" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="7" />
+      <well row="1" col="8">
+        <items>
+          <wellItem type="Compound" concentration="1" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Cytarabine" displayName="Cytarabine" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="9">
+        <items>
+          <wellItem type="Compound" concentration="0.2" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Cytarabine" displayName="Cytarabine" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.04" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Cytarabine" displayName="Cytarabine" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="11">
+        <items>
+          <wellItem type="Compound" concentration="0.008" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Cytarabine" displayName="Cytarabine" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="12">
+        <items>
+          <wellItem type="Compound" concentration="20" concentrationUnits="mM">
+            <referenceItem type="Compound" description="CHIR-98014" displayName="CHIR-98014" colorArgb="-8830743" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="13" />
+      <well row="1" col="14">
+        <items>
+          <wellItem type="Compound" concentration="5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="CHIR-98014" displayName="CHIR-98014" colorArgb="-8830743" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="15">
+        <items>
+          <wellItem type="Compound" concentration="1.25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="CHIR-98014" displayName="CHIR-98014" colorArgb="-8830743" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="16">
+        <items>
+          <wellItem type="Compound" concentration="0.3125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="CHIR-98014" displayName="CHIR-98014" colorArgb="-8830743" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.078125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="CHIR-98014" displayName="CHIR-98014" colorArgb="-8830743" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="18">
+        <items>
+          <wellItem type="Compound" concentration="0.1" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ganetespib" displayName="Ganetespib" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="19" />
+      <well row="1" col="20">
+        <items>
+          <wellItem type="Compound" concentration="0.025" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ganetespib" displayName="Ganetespib" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="21">
+        <items>
+          <wellItem type="Compound" concentration="0.00625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ganetespib" displayName="Ganetespib" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="22">
+        <items>
+          <wellItem type="Compound" concentration="0.0015625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ganetespib" displayName="Ganetespib" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="1" col="23">
+        <items>
+          <wellItem type="Compound" concentration="0.000390625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ganetespib" displayName="Ganetespib" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="0">
+        <items>
+          <wellItem type="Compound" concentration="0.3" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Daunorubicin" displayName="Daunorubicin" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="1" />
+      <well row="2" col="2">
+        <items>
+          <wellItem type="Compound" concentration="0.075" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Daunorubicin" displayName="Daunorubicin" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="3">
+        <items>
+          <wellItem type="Compound" concentration="0.01875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Daunorubicin" displayName="Daunorubicin" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="4">
+        <items>
+          <wellItem type="Compound" concentration="0.0046875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Daunorubicin" displayName="Daunorubicin" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="5">
+        <items>
+          <wellItem type="Compound" concentration="0.001171875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Daunorubicin" displayName="Daunorubicin" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="6">
+        <items>
+          <wellItem type="Compound" concentration="2" concentrationUnits="mM">
+            <referenceItem type="Compound" description="CCT196969" displayName="CCT196969" colorArgb="-12523031" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="7" />
+      <well row="2" col="8">
+        <items>
+          <wellItem type="Compound" concentration="0.4" concentrationUnits="mM">
+            <referenceItem type="Compound" description="CCT196969" displayName="CCT196969" colorArgb="-12523031" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="9">
+        <items>
+          <wellItem type="Compound" concentration="0.08" concentrationUnits="mM">
+            <referenceItem type="Compound" description="CCT196969" displayName="CCT196969" colorArgb="-12523031" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.016" concentrationUnits="mM">
+            <referenceItem type="Compound" description="CCT196969" displayName="CCT196969" colorArgb="-12523031" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="11">
+        <items>
+          <wellItem type="Compound" concentration="0.0032" concentrationUnits="mM">
+            <referenceItem type="Compound" description="CCT196969" displayName="CCT196969" colorArgb="-12523031" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="12">
+        <items>
+          <wellItem type="Compound" concentration="10" concentrationUnits="mM">
+            <referenceItem type="Compound" description="APO866 (FK866)" displayName="APO866 (FK866)" colorArgb="-1490711" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="13" />
+      <well row="2" col="14">
+        <items>
+          <wellItem type="Compound" concentration="2.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="APO866 (FK866)" displayName="APO866 (FK866)" colorArgb="-1490711" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="15">
+        <items>
+          <wellItem type="Compound" concentration="0.625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="APO866 (FK866)" displayName="APO866 (FK866)" colorArgb="-1490711" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="16">
+        <items>
+          <wellItem type="Compound" concentration="0.15625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="APO866 (FK866)" displayName="APO866 (FK866)" colorArgb="-1490711" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.0390625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="APO866 (FK866)" displayName="APO866 (FK866)" colorArgb="-1490711" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="18">
+        <items>
+          <wellItem type="Compound" concentration="3" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Vemurafenib" displayName="Vemurafenib" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="19" />
+      <well row="2" col="20">
+        <items>
+          <wellItem type="Compound" concentration="0.75" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Vemurafenib" displayName="Vemurafenib" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="21">
+        <items>
+          <wellItem type="Compound" concentration="0.1875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Vemurafenib" displayName="Vemurafenib" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="22">
+        <items>
+          <wellItem type="Compound" concentration="0.046875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Vemurafenib" displayName="Vemurafenib" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="2" col="23">
+        <items>
+          <wellItem type="Compound" concentration="0.01171875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Vemurafenib" displayName="Vemurafenib" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="0">
+        <items>
+          <wellItem type="Compound" concentration="100" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Lenalidomide" displayName="Lenalidomide" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="1" />
+      <well row="3" col="2">
+        <items>
+          <wellItem type="Compound" concentration="25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Lenalidomide" displayName="Lenalidomide" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="3">
+        <items>
+          <wellItem type="Compound" concentration="6.25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Lenalidomide" displayName="Lenalidomide" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="4">
+        <items>
+          <wellItem type="Compound" concentration="1.5625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Lenalidomide" displayName="Lenalidomide" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="5">
+        <items>
+          <wellItem type="Compound" concentration="0.390625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Lenalidomide" displayName="Lenalidomide" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="6">
+        <items>
+          <wellItem type="Compound" concentration="5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Entinostat (MS-275)" displayName="Entinostat (MS-275)" colorArgb="-12537367" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="7" />
+      <well row="3" col="8">
+        <items>
+          <wellItem type="Compound" concentration="1" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Entinostat (MS-275)" displayName="Entinostat (MS-275)" colorArgb="-12537367" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="9">
+        <items>
+          <wellItem type="Compound" concentration="0.2" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Entinostat (MS-275)" displayName="Entinostat (MS-275)" colorArgb="-12537367" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.04" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Entinostat (MS-275)" displayName="Entinostat (MS-275)" colorArgb="-12537367" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="11">
+        <items>
+          <wellItem type="Compound" concentration="0.008" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Entinostat (MS-275)" displayName="Entinostat (MS-275)" colorArgb="-12537367" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="12">
+        <items>
+          <wellItem type="Compound" concentration="30" concentrationUnits="mM">
+            <referenceItem type="Compound" description="NSC348884" displayName="NSC348884" colorArgb="-1490767" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="13" />
+      <well row="3" col="14">
+        <items>
+          <wellItem type="Compound" concentration="7.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="NSC348884" displayName="NSC348884" colorArgb="-1490767" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="15">
+        <items>
+          <wellItem type="Compound" concentration="1.875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="NSC348884" displayName="NSC348884" colorArgb="-1490767" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="16">
+        <items>
+          <wellItem type="Compound" concentration="0.46875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="NSC348884" displayName="NSC348884" colorArgb="-1490767" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.1171875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="NSC348884" displayName="NSC348884" colorArgb="-1490767" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="18">
+        <items>
+          <wellItem type="Compound" concentration="10" concentrationUnits="mM">
+            <referenceItem type="Compound" description="DJ34" displayName="DJ34" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="19" />
+      <well row="3" col="20">
+        <items>
+          <wellItem type="Compound" concentration="2.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="DJ34" displayName="DJ34" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="21">
+        <items>
+          <wellItem type="Compound" concentration="0.625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="DJ34" displayName="DJ34" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="22">
+        <items>
+          <wellItem type="Compound" concentration="0.15625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="DJ34" displayName="DJ34" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="3" col="23">
+        <items>
+          <wellItem type="Compound" concentration="0.0390625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="DJ34" displayName="DJ34" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="0">
+        <items>
+          <wellItem type="Compound" concentration="3" concentrationUnits="mM">
+            <referenceItem type="Compound" description="GSK 525762A (I-BET 762)" displayName="GSK 525762A (I-BET 762)" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="1" />
+      <well row="4" col="2">
+        <items>
+          <wellItem type="Compound" concentration="0.75" concentrationUnits="mM">
+            <referenceItem type="Compound" description="GSK 525762A (I-BET 762)" displayName="GSK 525762A (I-BET 762)" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="3">
+        <items>
+          <wellItem type="Compound" concentration="0.1875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="GSK 525762A (I-BET 762)" displayName="GSK 525762A (I-BET 762)" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="4">
+        <items>
+          <wellItem type="Compound" concentration="0.046875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="GSK 525762A (I-BET 762)" displayName="GSK 525762A (I-BET 762)" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="5">
+        <items>
+          <wellItem type="Compound" concentration="0.01171875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="GSK 525762A (I-BET 762)" displayName="GSK 525762A (I-BET 762)" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="6">
+        <items>
+          <wellItem type="Compound" concentration="20" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Abemaciclib mesylate (LY2835219)" displayName="Abemaciclib mesylate (LY2835219)" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="7" />
+      <well row="4" col="8">
+        <items>
+          <wellItem type="Compound" concentration="4" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Abemaciclib mesylate (LY2835219)" displayName="Abemaciclib mesylate (LY2835219)" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="9">
+        <items>
+          <wellItem type="Compound" concentration="0.8" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Abemaciclib mesylate (LY2835219)" displayName="Abemaciclib mesylate (LY2835219)" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.16" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Abemaciclib mesylate (LY2835219)" displayName="Abemaciclib mesylate (LY2835219)" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="11">
+        <items>
+          <wellItem type="Compound" concentration="0.032" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Abemaciclib mesylate (LY2835219)" displayName="Abemaciclib mesylate (LY2835219)" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="12">
+        <items>
+          <wellItem type="Compound" concentration="5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Gilteritinib (ASP-2215)" displayName="Gilteritinib (ASP-2215)" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="13" />
+      <well row="4" col="14">
+        <items>
+          <wellItem type="Compound" concentration="1.25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Gilteritinib (ASP-2215)" displayName="Gilteritinib (ASP-2215)" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="15">
+        <items>
+          <wellItem type="Compound" concentration="0.3125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Gilteritinib (ASP-2215)" displayName="Gilteritinib (ASP-2215)" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="16">
+        <items>
+          <wellItem type="Compound" concentration="0.078125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Gilteritinib (ASP-2215)" displayName="Gilteritinib (ASP-2215)" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.01953125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Gilteritinib (ASP-2215)" displayName="Gilteritinib (ASP-2215)" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="18">
+        <items>
+          <wellItem type="Compound" concentration="100" concentrationUnits="mM">
+            <referenceItem type="Compound" description="WM-8014" displayName="WM-8014" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="19" />
+      <well row="4" col="20">
+        <items>
+          <wellItem type="Compound" concentration="50" concentrationUnits="mM">
+            <referenceItem type="Compound" description="WM-8014" displayName="WM-8014" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="21">
+        <items>
+          <wellItem type="Compound" concentration="25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="WM-8014" displayName="WM-8014" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="22">
+        <items>
+          <wellItem type="Compound" concentration="12.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="WM-8014" displayName="WM-8014" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="4" col="23">
+        <items>
+          <wellItem type="Compound" concentration="6.25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="WM-8014" displayName="WM-8014" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="0">
+        <items>
+          <wellItem type="Compound" concentration="5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Mocetinostat" displayName="Mocetinostat" colorArgb="-12551703" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="1" />
+      <well row="5" col="2">
+        <items>
+          <wellItem type="Compound" concentration="1.25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Mocetinostat" displayName="Mocetinostat" colorArgb="-12551703" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="3">
+        <items>
+          <wellItem type="Compound" concentration="0.3125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Mocetinostat" displayName="Mocetinostat" colorArgb="-12551703" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="4">
+        <items>
+          <wellItem type="Compound" concentration="0.078125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Mocetinostat" displayName="Mocetinostat" colorArgb="-12551703" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="5">
+        <items>
+          <wellItem type="Compound" concentration="0.01953125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Mocetinostat" displayName="Mocetinostat" colorArgb="-12551703" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="6">
+        <items>
+          <wellItem type="Compound" concentration="50" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Olaparib (AZD2281)" displayName="Olaparib (AZD2281)" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="7" />
+      <well row="5" col="8">
+        <items>
+          <wellItem type="Compound" concentration="10" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Olaparib (AZD2281)" displayName="Olaparib (AZD2281)" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="9">
+        <items>
+          <wellItem type="Compound" concentration="2" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Olaparib (AZD2281)" displayName="Olaparib (AZD2281)" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.4" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Olaparib (AZD2281)" displayName="Olaparib (AZD2281)" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="11">
+        <items>
+          <wellItem type="Compound" concentration="0.08" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Olaparib (AZD2281)" displayName="Olaparib (AZD2281)" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="12">
+        <items>
+          <wellItem type="Compound" concentration="15" concentrationUnits="mM">
+            <referenceItem type="Compound" description="MK-2206" displayName="MK-2206" colorArgb="-1461952" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="13" />
+      <well row="5" col="14">
+        <items>
+          <wellItem type="Compound" concentration="3.75" concentrationUnits="mM">
+            <referenceItem type="Compound" description="MK-2206" displayName="MK-2206" colorArgb="-1461952" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="15">
+        <items>
+          <wellItem type="Compound" concentration="0.9375" concentrationUnits="mM">
+            <referenceItem type="Compound" description="MK-2206" displayName="MK-2206" colorArgb="-1461952" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="16">
+        <items>
+          <wellItem type="Compound" concentration="0.234375" concentrationUnits="mM">
+            <referenceItem type="Compound" description="MK-2206" displayName="MK-2206" colorArgb="-1461952" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.05859375" concentrationUnits="mM">
+            <referenceItem type="Compound" description="MK-2206" displayName="MK-2206" colorArgb="-1461952" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="18">
+        <items>
+          <wellItem type="Compound" concentration="10" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Everolimus" displayName="Everolimus" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="19" />
+      <well row="5" col="20">
+        <items>
+          <wellItem type="Compound" concentration="1" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Everolimus" displayName="Everolimus" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="21">
+        <items>
+          <wellItem type="Compound" concentration="0.1" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Everolimus" displayName="Everolimus" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="22">
+        <items>
+          <wellItem type="Compound" concentration="0.01" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Everolimus" displayName="Everolimus" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="5" col="23">
+        <items>
+          <wellItem type="Compound" concentration="0.001" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Everolimus" displayName="Everolimus" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="0">
+        <items>
+          <wellItem type="Compound" concentration="5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Quizartinib" displayName="Quizartinib" colorArgb="-12566295" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="1" />
+      <well row="6" col="2">
+        <items>
+          <wellItem type="Compound" concentration="1.25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Quizartinib" displayName="Quizartinib" colorArgb="-12566295" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="3">
+        <items>
+          <wellItem type="Compound" concentration="0.3125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Quizartinib" displayName="Quizartinib" colorArgb="-12566295" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="4">
+        <items>
+          <wellItem type="Compound" concentration="0.078125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Quizartinib" displayName="Quizartinib" colorArgb="-12566295" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="5">
+        <items>
+          <wellItem type="Compound" concentration="0.01953125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Quizartinib" displayName="Quizartinib" colorArgb="-12566295" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="6">
+        <items>
+          <wellItem type="Compound" concentration="0.3" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Torin2" displayName="Torin2" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="7" />
+      <well row="6" col="8">
+        <items>
+          <wellItem type="Compound" concentration="0.06" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Torin2" displayName="Torin2" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="9">
+        <items>
+          <wellItem type="Compound" concentration="0.012" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Torin2" displayName="Torin2" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.0024000000000000002" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Torin2" displayName="Torin2" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="11">
+        <items>
+          <wellItem type="Compound" concentration="0.00048000000000000007" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Torin2" displayName="Torin2" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="12">
+        <items>
+          <wellItem type="Compound" concentration="20" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ro 5-3335" displayName="Ro 5-3335" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="13" />
+      <well row="6" col="14">
+        <items>
+          <wellItem type="Compound" concentration="5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ro 5-3335" displayName="Ro 5-3335" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="15">
+        <items>
+          <wellItem type="Compound" concentration="1.25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ro 5-3335" displayName="Ro 5-3335" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="16">
+        <items>
+          <wellItem type="Compound" concentration="0.3125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ro 5-3335" displayName="Ro 5-3335" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.078125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ro 5-3335" displayName="Ro 5-3335" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="18">
+        <items>
+          <wellItem type="Compound" concentration="6" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Bosutinib" displayName="Bosutinib" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="19" />
+      <well row="6" col="20">
+        <items>
+          <wellItem type="Compound" concentration="2" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Bosutinib" displayName="Bosutinib" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="21">
+        <items>
+          <wellItem type="Compound" concentration="0.66666666666666663" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Bosutinib" displayName="Bosutinib" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="22">
+        <items>
+          <wellItem type="Compound" concentration="0.22222222222222221" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Bosutinib" displayName="Bosutinib" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="6" col="23">
+        <items>
+          <wellItem type="Compound" concentration="0.07407407407407407" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Bosutinib" displayName="Bosutinib" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="0">
+        <items>
+          <wellItem type="Compound" concentration="100" concentrationUnits="mM">
+            <referenceItem type="Compound" description="ATRA" displayName="ATRA" colorArgb="-5160727" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="1" />
+      <well row="7" col="2">
+        <items>
+          <wellItem type="Compound" concentration="25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="ATRA" displayName="ATRA" colorArgb="-5160727" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="3">
+        <items>
+          <wellItem type="Compound" concentration="6.25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="ATRA" displayName="ATRA" colorArgb="-5160727" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="4">
+        <items>
+          <wellItem type="Compound" concentration="1.5625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="ATRA" displayName="ATRA" colorArgb="-5160727" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="5">
+        <items>
+          <wellItem type="Compound" concentration="0.390625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="ATRA" displayName="ATRA" colorArgb="-5160727" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="6">
+        <items>
+          <wellItem type="Compound" concentration="0.05" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Trametinib/Mekinist" displayName="Trametinib/Mekinist" colorArgb="-12566295" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="7" />
+      <well row="7" col="8">
+        <items>
+          <wellItem type="Compound" concentration="0.01" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Trametinib/Mekinist" displayName="Trametinib/Mekinist" colorArgb="-12566295" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="9">
+        <items>
+          <wellItem type="Compound" concentration="0.002" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Trametinib/Mekinist" displayName="Trametinib/Mekinist" colorArgb="-12566295" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.0004" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Trametinib/Mekinist" displayName="Trametinib/Mekinist" colorArgb="-12566295" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="11">
+        <items>
+          <wellItem type="Compound" concentration="8E-05" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Trametinib/Mekinist" displayName="Trametinib/Mekinist" colorArgb="-12566295" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="12">
+        <items>
+          <wellItem type="Compound" concentration="10" concentrationUnits="mM">
+            <referenceItem type="Compound" description="IRAK4 Inhibitor (Compound 26)" displayName="IRAK4 Inhibitor (Compound 26)" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="13" />
+      <well row="7" col="14">
+        <items>
+          <wellItem type="Compound" concentration="2.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="IRAK4 Inhibitor (Compound 26)" displayName="IRAK4 Inhibitor (Compound 26)" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="15">
+        <items>
+          <wellItem type="Compound" concentration="0.625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="IRAK4 Inhibitor (Compound 26)" displayName="IRAK4 Inhibitor (Compound 26)" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="16">
+        <items>
+          <wellItem type="Compound" concentration="0.15625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="IRAK4 Inhibitor (Compound 26)" displayName="IRAK4 Inhibitor (Compound 26)" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.0390625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="IRAK4 Inhibitor (Compound 26)" displayName="IRAK4 Inhibitor (Compound 26)" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="18">
+        <items>
+          <wellItem type="Compound" concentration="5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Decitabine" displayName="Decitabine" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="19" />
+      <well row="7" col="20">
+        <items>
+          <wellItem type="Compound" concentration="1.6666666666666667" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Decitabine" displayName="Decitabine" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="21">
+        <items>
+          <wellItem type="Compound" concentration="0.55555555555555558" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Decitabine" displayName="Decitabine" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="22">
+        <items>
+          <wellItem type="Compound" concentration="0.1851851851851852" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Decitabine" displayName="Decitabine" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="7" col="23">
+        <items>
+          <wellItem type="Compound" concentration="0.0617283950617284" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Decitabine" displayName="Decitabine" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="8" col="0" />
+      <well row="8" col="1" />
+      <well row="8" col="2" />
+      <well row="8" col="3" />
+      <well row="8" col="4" />
+      <well row="8" col="5" />
+      <well row="8" col="6">
+        <items>
+          <wellItem type="Compound" concentration="0.2" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Panobinostat (LBH589)" displayName="Panobinostat (LBH589)" colorArgb="-1490711" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="8" col="7" />
+      <well row="8" col="8">
+        <items>
+          <wellItem type="Compound" concentration="0.04" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Panobinostat (LBH589)" displayName="Panobinostat (LBH589)" colorArgb="-1490711" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="8" col="9">
+        <items>
+          <wellItem type="Compound" concentration="0.008" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Panobinostat (LBH589)" displayName="Panobinostat (LBH589)" colorArgb="-1490711" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="8" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.0016" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Panobinostat (LBH589)" displayName="Panobinostat (LBH589)" colorArgb="-1490711" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="8" col="11">
+        <items>
+          <wellItem type="Compound" concentration="0.00032" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Panobinostat (LBH589)" displayName="Panobinostat (LBH589)" colorArgb="-1490711" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="8" col="12">
+        <items>
+          <wellItem type="Compound" concentration="100" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Dexamethasone (DHAP)" displayName="Dexamethasone (DHAP)" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="8" col="13" />
+      <well row="8" col="14">
+        <items>
+          <wellItem type="Compound" concentration="25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Dexamethasone (DHAP)" displayName="Dexamethasone (DHAP)" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="8" col="15">
+        <items>
+          <wellItem type="Compound" concentration="6.25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Dexamethasone (DHAP)" displayName="Dexamethasone (DHAP)" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="8" col="16">
+        <items>
+          <wellItem type="Compound" concentration="1.5625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Dexamethasone (DHAP)" displayName="Dexamethasone (DHAP)" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="8" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.390625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Dexamethasone (DHAP)" displayName="Dexamethasone (DHAP)" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="8" col="18">
+        <items>
+          <wellItem type="Compound" concentration="0.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Bardoxolone Methyl" displayName="Bardoxolone Methyl" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="8" col="19" />
+      <well row="8" col="20">
+        <items>
+          <wellItem type="Compound" concentration="0.16666666666666666" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Bardoxolone Methyl" displayName="Bardoxolone Methyl" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="8" col="21">
+        <items>
+          <wellItem type="Compound" concentration="0.055555555555555552" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Bardoxolone Methyl" displayName="Bardoxolone Methyl" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="8" col="22">
+        <items>
+          <wellItem type="Compound" concentration="0.018518518518518517" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Bardoxolone Methyl" displayName="Bardoxolone Methyl" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="8" col="23">
+        <items>
+          <wellItem type="Compound" concentration="0.0061728395061728392" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Bardoxolone Methyl" displayName="Bardoxolone Methyl" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="0">
+        <items>
+          <wellItem type="Compound" concentration="2" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ponatinib" displayName="Ponatinib" colorArgb="-1490767" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="1" />
+      <well row="9" col="2">
+        <items>
+          <wellItem type="Compound" concentration="0.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ponatinib" displayName="Ponatinib" colorArgb="-1490767" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="3">
+        <items>
+          <wellItem type="Compound" concentration="0.125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ponatinib" displayName="Ponatinib" colorArgb="-1490767" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="4">
+        <items>
+          <wellItem type="Compound" concentration="0.03125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ponatinib" displayName="Ponatinib" colorArgb="-1490767" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="5">
+        <items>
+          <wellItem type="Compound" concentration="0.0078125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ponatinib" displayName="Ponatinib" colorArgb="-1490767" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="6">
+        <items>
+          <wellItem type="Compound" concentration="50" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Sapatinib" displayName="Sapatinib" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="7" />
+      <well row="9" col="8">
+        <items>
+          <wellItem type="Compound" concentration="10" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Sapatinib" displayName="Sapatinib" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="9">
+        <items>
+          <wellItem type="Compound" concentration="2" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Sapatinib" displayName="Sapatinib" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.4" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Sapatinib" displayName="Sapatinib" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="11">
+        <items>
+          <wellItem type="Compound" concentration="0.08" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Sapatinib" displayName="Sapatinib" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="12">
+        <items>
+          <wellItem type="Compound" concentration="100" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Avagacestat" displayName="Avagacestat" colorArgb="-12523031" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="13" />
+      <well row="9" col="14">
+        <items>
+          <wellItem type="Compound" concentration="25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Avagacestat" displayName="Avagacestat" colorArgb="-12523031" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="15">
+        <items>
+          <wellItem type="Compound" concentration="6.25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Avagacestat" displayName="Avagacestat" colorArgb="-12523031" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="16">
+        <items>
+          <wellItem type="Compound" concentration="1.5625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Avagacestat" displayName="Avagacestat" colorArgb="-12523031" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.390625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Avagacestat" displayName="Avagacestat" colorArgb="-12523031" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="9" col="18" />
+      <well row="9" col="19" />
+      <well row="9" col="20" />
+      <well row="9" col="21" />
+      <well row="9" col="22" />
+      <well row="9" col="23" />
+      <well row="10" col="0">
+        <items>
+          <wellItem type="Compound" concentration="30" concentrationUnits="mM">
+            <referenceItem type="Compound" description="GSK2879552" displayName="GSK2879552" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="1" />
+      <well row="10" col="2">
+        <items>
+          <wellItem type="Compound" concentration="7.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="GSK2879552" displayName="GSK2879552" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="3">
+        <items>
+          <wellItem type="Compound" concentration="1.875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="GSK2879552" displayName="GSK2879552" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="4">
+        <items>
+          <wellItem type="Compound" concentration="0.46875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="GSK2879552" displayName="GSK2879552" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="5">
+        <items>
+          <wellItem type="Compound" concentration="0.1171875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="GSK2879552" displayName="GSK2879552" colorArgb="-1447616" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="6">
+        <items>
+          <wellItem type="Compound" concentration="5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Amsacrine" displayName="Amsacrine" colorArgb="-8830743" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="7" />
+      <well row="10" col="8">
+        <items>
+          <wellItem type="Compound" concentration="0.83333333333333337" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Amsacrine" displayName="Amsacrine" colorArgb="-8830743" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="9">
+        <items>
+          <wellItem type="Compound" concentration="0.1388888888888889" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Amsacrine" displayName="Amsacrine" colorArgb="-8830743" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.02314814814814815" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Amsacrine" displayName="Amsacrine" colorArgb="-8830743" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="11">
+        <items>
+          <wellItem type="Compound" concentration="0.0038580246913580249" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Amsacrine" displayName="Amsacrine" colorArgb="-8830743" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="12">
+        <items>
+          <wellItem type="Compound" concentration="30" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Idelalisib" displayName="Idelalisib" colorArgb="-12551703" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="13" />
+      <well row="10" col="14">
+        <items>
+          <wellItem type="Compound" concentration="7.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Idelalisib" displayName="Idelalisib" colorArgb="-12551703" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="15">
+        <items>
+          <wellItem type="Compound" concentration="1.875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Idelalisib" displayName="Idelalisib" colorArgb="-12551703" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="16">
+        <items>
+          <wellItem type="Compound" concentration="0.46875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Idelalisib" displayName="Idelalisib" colorArgb="-12551703" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.1171875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Idelalisib" displayName="Idelalisib" colorArgb="-12551703" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="18">
+        <items>
+          <wellItem type="Compound" concentration="20" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Entospletinib (GS-9973)" displayName="Entospletinib (GS-9973)" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="19" />
+      <well row="10" col="20">
+        <items>
+          <wellItem type="Compound" concentration="8.3333333333333339" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Entospletinib (GS-9973)" displayName="Entospletinib (GS-9973)" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="21">
+        <items>
+          <wellItem type="Compound" concentration="2.7777777777777781" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Entospletinib (GS-9973)" displayName="Entospletinib (GS-9973)" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="22">
+        <items>
+          <wellItem type="Compound" concentration="0.925925925925926" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Entospletinib (GS-9973)" displayName="Entospletinib (GS-9973)" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="10" col="23">
+        <items>
+          <wellItem type="Compound" concentration="0.308641975308642" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Entospletinib (GS-9973)" displayName="Entospletinib (GS-9973)" colorArgb="-5117632" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="0">
+        <items>
+          <wellItem type="Compound" concentration="100" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Vorasidenib (AG-881)" displayName="Vorasidenib (AG-881)" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="1" />
+      <well row="11" col="2">
+        <items>
+          <wellItem type="Compound" concentration="25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Vorasidenib (AG-881)" displayName="Vorasidenib (AG-881)" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="3">
+        <items>
+          <wellItem type="Compound" concentration="6.25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Vorasidenib (AG-881)" displayName="Vorasidenib (AG-881)" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="4">
+        <items>
+          <wellItem type="Compound" concentration="1.5625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Vorasidenib (AG-881)" displayName="Vorasidenib (AG-881)" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="5">
+        <items>
+          <wellItem type="Compound" concentration="0.390625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Vorasidenib (AG-881)" displayName="Vorasidenib (AG-881)" colorArgb="-8787648" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="6">
+        <items>
+          <wellItem type="Compound" concentration="25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Azacitidine" displayName="Azacitidine" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="7" />
+      <well row="11" col="8">
+        <items>
+          <wellItem type="Compound" concentration="4.166666666666667" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Azacitidine" displayName="Azacitidine" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="9">
+        <items>
+          <wellItem type="Compound" concentration="0.69444444444444453" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Azacitidine" displayName="Azacitidine" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.11574074074074076" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Azacitidine" displayName="Azacitidine" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="11">
+        <items>
+          <wellItem type="Compound" concentration="0.019290123456790126" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Azacitidine" displayName="Azacitidine" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="12">
+        <items>
+          <wellItem type="Compound" concentration="25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="SGC 0946" displayName="SGC 0946" colorArgb="-8830743" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="13" />
+      <well row="11" col="14">
+        <items>
+          <wellItem type="Compound" concentration="6.25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="SGC 0946" displayName="SGC 0946" colorArgb="-8830743" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="15">
+        <items>
+          <wellItem type="Compound" concentration="1.5625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="SGC 0946" displayName="SGC 0946" colorArgb="-8830743" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="16">
+        <items>
+          <wellItem type="Compound" concentration="0.390625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="SGC 0946" displayName="SGC 0946" colorArgb="-8830743" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.09765625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="SGC 0946" displayName="SGC 0946" colorArgb="-8830743" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="11" col="18" />
+      <well row="11" col="19" />
+      <well row="11" col="20" />
+      <well row="11" col="21" />
+      <well row="11" col="22" />
+      <well row="11" col="23" />
+      <well row="12" col="0">
+        <items>
+          <wellItem type="Compound" concentration="50" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ibrutinib" displayName="Ibrutinib" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="1" />
+      <well row="12" col="2">
+        <items>
+          <wellItem type="Compound" concentration="12.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ibrutinib" displayName="Ibrutinib" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="3">
+        <items>
+          <wellItem type="Compound" concentration="3.125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ibrutinib" displayName="Ibrutinib" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="4">
+        <items>
+          <wellItem type="Compound" concentration="0.78125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ibrutinib" displayName="Ibrutinib" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="5">
+        <items>
+          <wellItem type="Compound" concentration="0.1953125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ibrutinib" displayName="Ibrutinib" colorArgb="-12523200" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="6">
+        <items>
+          <wellItem type="Compound" concentration="2" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Volasertib" displayName="Volasertib" colorArgb="-5160727" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="7" />
+      <well row="12" col="8">
+        <items>
+          <wellItem type="Compound" concentration="0.33333333333333331" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Volasertib" displayName="Volasertib" colorArgb="-5160727" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="9">
+        <items>
+          <wellItem type="Compound" concentration="0.055555555555555552" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Volasertib" displayName="Volasertib" colorArgb="-5160727" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.0092592592592592587" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Volasertib" displayName="Volasertib" colorArgb="-5160727" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="11">
+        <items>
+          <wellItem type="Compound" concentration="0.0015432098765432098" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Volasertib" displayName="Volasertib" colorArgb="-5160727" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="12">
+        <items>
+          <wellItem type="Compound" concentration="10" concentrationUnits="mM">
+            <referenceItem type="Compound" description="MI463" displayName="MI463" colorArgb="-5160727" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="13" />
+      <well row="12" col="14">
+        <items>
+          <wellItem type="Compound" concentration="2.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="MI463" displayName="MI463" colorArgb="-5160727" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="15">
+        <items>
+          <wellItem type="Compound" concentration="0.625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="MI463" displayName="MI463" colorArgb="-5160727" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="16">
+        <items>
+          <wellItem type="Compound" concentration="0.15625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="MI463" displayName="MI463" colorArgb="-5160727" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.0390625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="MI463" displayName="MI463" colorArgb="-5160727" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="18">
+        <items>
+          <wellItem type="Compound" concentration="100" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Galunisertib (LY2157299)" displayName="Galunisertib (LY2157299)" colorArgb="-12537367" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="19" />
+      <well row="12" col="20">
+        <items>
+          <wellItem type="Compound" concentration="33.333333333333336" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Galunisertib (LY2157299)" displayName="Galunisertib (LY2157299)" colorArgb="-12537367" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="21">
+        <items>
+          <wellItem type="Compound" concentration="11.111111111111112" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Galunisertib (LY2157299)" displayName="Galunisertib (LY2157299)" colorArgb="-12537367" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="22">
+        <items>
+          <wellItem type="Compound" concentration="3.7037037037037042" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Galunisertib (LY2157299)" displayName="Galunisertib (LY2157299)" colorArgb="-12537367" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="12" col="23">
+        <items>
+          <wellItem type="Compound" concentration="1.2345679012345681" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Galunisertib (LY2157299)" displayName="Galunisertib (LY2157299)" colorArgb="-12537367" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="0">
+        <items>
+          <wellItem type="Compound" concentration="10" concentrationUnits="mM">
+            <referenceItem type="Compound" description="LY2603618" displayName="LY2603618" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="1" />
+      <well row="13" col="2">
+        <items>
+          <wellItem type="Compound" concentration="2.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="LY2603618" displayName="LY2603618" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="3">
+        <items>
+          <wellItem type="Compound" concentration="0.625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="LY2603618" displayName="LY2603618" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="4">
+        <items>
+          <wellItem type="Compound" concentration="0.15625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="LY2603618" displayName="LY2603618" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="5">
+        <items>
+          <wellItem type="Compound" concentration="0.0390625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="LY2603618" displayName="LY2603618" colorArgb="-12523143" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="6">
+        <items>
+          <wellItem type="Compound" concentration="1" concentrationUnits="mM">
+            <referenceItem type="Compound" description="EC-70124" displayName="EC-70124" colorArgb="-12537367" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="7" />
+      <well row="13" col="8">
+        <items>
+          <wellItem type="Compound" concentration="0.16666666666666666" concentrationUnits="mM">
+            <referenceItem type="Compound" description="EC-70124" displayName="EC-70124" colorArgb="-12537367" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="9">
+        <items>
+          <wellItem type="Compound" concentration="0.027777777777777776" concentrationUnits="mM">
+            <referenceItem type="Compound" description="EC-70124" displayName="EC-70124" colorArgb="-12537367" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.0046296296296296294" concentrationUnits="mM">
+            <referenceItem type="Compound" description="EC-70124" displayName="EC-70124" colorArgb="-12537367" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="11">
+        <items>
+          <wellItem type="Compound" concentration="0.0007716049382716049" concentrationUnits="mM">
+            <referenceItem type="Compound" description="EC-70124" displayName="EC-70124" colorArgb="-12537367" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="12">
+        <items>
+          <wellItem type="Compound" concentration="0.03" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Bortezomib" displayName="Bortezomib" colorArgb="-1490767" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="13" />
+      <well row="13" col="14">
+        <items>
+          <wellItem type="Compound" concentration="0.0075" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Bortezomib" displayName="Bortezomib" colorArgb="-1490767" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="15">
+        <items>
+          <wellItem type="Compound" concentration="0.001875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Bortezomib" displayName="Bortezomib" colorArgb="-1490767" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="16">
+        <items>
+          <wellItem type="Compound" concentration="0.00046875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Bortezomib" displayName="Bortezomib" colorArgb="-1490767" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.0001171875" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Bortezomib" displayName="Bortezomib" colorArgb="-1490767" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="18">
+        <items>
+          <wellItem type="Compound" concentration="50" concentrationUnits="mM">
+            <referenceItem type="Compound" description="FK506 (Tacrolimus)" displayName="FK506 (Tacrolimus)" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="19" />
+      <well row="13" col="20">
+        <items>
+          <wellItem type="Compound" concentration="16.666666666666668" concentrationUnits="mM">
+            <referenceItem type="Compound" description="FK506 (Tacrolimus)" displayName="FK506 (Tacrolimus)" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="21">
+        <items>
+          <wellItem type="Compound" concentration="5.5555555555555562" concentrationUnits="mM">
+            <referenceItem type="Compound" description="FK506 (Tacrolimus)" displayName="FK506 (Tacrolimus)" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="22">
+        <items>
+          <wellItem type="Compound" concentration="1.8518518518518521" concentrationUnits="mM">
+            <referenceItem type="Compound" description="FK506 (Tacrolimus)" displayName="FK506 (Tacrolimus)" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="13" col="23">
+        <items>
+          <wellItem type="Compound" concentration="0.617283950617284" concentrationUnits="mM">
+            <referenceItem type="Compound" description="FK506 (Tacrolimus)" displayName="FK506 (Tacrolimus)" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="0">
+        <items>
+          <wellItem type="Compound" concentration="0.02" concentrationUnits="mM">
+            <referenceItem type="Compound" description="YM155" displayName="YM155" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="1" />
+      <well row="14" col="2">
+        <items>
+          <wellItem type="Compound" concentration="0.005" concentrationUnits="mM">
+            <referenceItem type="Compound" description="YM155" displayName="YM155" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="3">
+        <items>
+          <wellItem type="Compound" concentration="0.00125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="YM155" displayName="YM155" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="4">
+        <items>
+          <wellItem type="Compound" concentration="0.0003125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="YM155" displayName="YM155" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="5">
+        <items>
+          <wellItem type="Compound" concentration="7.8125E-05" concentrationUnits="mM">
+            <referenceItem type="Compound" description="YM155" displayName="YM155" colorArgb="-12523087" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="6">
+        <items>
+          <wellItem type="Compound" concentration="10" concentrationUnits="mM">
+            <referenceItem type="Compound" description="SNS-314 Mesylate" displayName="SNS-314 Mesylate" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="7" />
+      <well row="14" col="8">
+        <items>
+          <wellItem type="Compound" concentration="1.4285714285714286" concentrationUnits="mM">
+            <referenceItem type="Compound" description="SNS-314 Mesylate" displayName="SNS-314 Mesylate" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="9">
+        <items>
+          <wellItem type="Compound" concentration="0.20408163265306123" concentrationUnits="mM">
+            <referenceItem type="Compound" description="SNS-314 Mesylate" displayName="SNS-314 Mesylate" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.02915451895043732" concentrationUnits="mM">
+            <referenceItem type="Compound" description="SNS-314 Mesylate" displayName="SNS-314 Mesylate" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="11">
+        <items>
+          <wellItem type="Compound" concentration="0.0041649312786339026" concentrationUnits="mM">
+            <referenceItem type="Compound" description="SNS-314 Mesylate" displayName="SNS-314 Mesylate" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="12">
+        <items>
+          <wellItem type="Compound" concentration="50" concentrationUnits="mM">
+            <referenceItem type="Compound" description="SB 203580" displayName="SB 203580" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="13" />
+      <well row="14" col="14">
+        <items>
+          <wellItem type="Compound" concentration="12.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="SB 203580" displayName="SB 203580" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="15">
+        <items>
+          <wellItem type="Compound" concentration="3.125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="SB 203580" displayName="SB 203580" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="16">
+        <items>
+          <wellItem type="Compound" concentration="0.78125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="SB 203580" displayName="SB 203580" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.1953125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="SB 203580" displayName="SB 203580" colorArgb="-1490880" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="18">
+        <items>
+          <wellItem type="Compound" concentration="5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="WP1130" displayName="WP1130" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="19" />
+      <well row="14" col="20">
+        <items>
+          <wellItem type="Compound" concentration="1.6666666666666667" concentrationUnits="mM">
+            <referenceItem type="Compound" description="WP1130" displayName="WP1130" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="21">
+        <items>
+          <wellItem type="Compound" concentration="0.55555555555555558" concentrationUnits="mM">
+            <referenceItem type="Compound" description="WP1130" displayName="WP1130" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="22">
+        <items>
+          <wellItem type="Compound" concentration="0.1851851851851852" concentrationUnits="mM">
+            <referenceItem type="Compound" description="WP1130" displayName="WP1130" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="14" col="23">
+        <items>
+          <wellItem type="Compound" concentration="0.0617283950617284" concentrationUnits="mM">
+            <referenceItem type="Compound" description="WP1130" displayName="WP1130" colorArgb="-1490823" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="0">
+        <items>
+          <wellItem type="Compound" concentration="100" concentrationUnits="mM">
+            <referenceItem type="Compound" description="GDC-0449 (Vismodegib)" displayName="GDC-0449 (Vismodegib)" colorArgb="-12551703" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="1" />
+      <well row="15" col="2">
+        <items>
+          <wellItem type="Compound" concentration="25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="GDC-0449 (Vismodegib)" displayName="GDC-0449 (Vismodegib)" colorArgb="-12551703" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="3">
+        <items>
+          <wellItem type="Compound" concentration="6.25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="GDC-0449 (Vismodegib)" displayName="GDC-0449 (Vismodegib)" colorArgb="-12551703" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="4">
+        <items>
+          <wellItem type="Compound" concentration="1.5625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="GDC-0449 (Vismodegib)" displayName="GDC-0449 (Vismodegib)" colorArgb="-12551703" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="5">
+        <items>
+          <wellItem type="Compound" concentration="0.390625" concentrationUnits="mM">
+            <referenceItem type="Compound" description="GDC-0449 (Vismodegib)" displayName="GDC-0449 (Vismodegib)" colorArgb="-12551703" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="6">
+        <items>
+          <wellItem type="Compound" concentration="25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Tipifarnib" displayName="Tipifarnib" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="7" />
+      <well row="15" col="8">
+        <items>
+          <wellItem type="Compound" concentration="3.5714285714285716" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Tipifarnib" displayName="Tipifarnib" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="9">
+        <items>
+          <wellItem type="Compound" concentration="0.51020408163265307" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Tipifarnib" displayName="Tipifarnib" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="10">
+        <items>
+          <wellItem type="Compound" concentration="0.0728862973760933" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Tipifarnib" displayName="Tipifarnib" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="11">
+        <items>
+          <wellItem type="Compound" concentration="0.010412328196584757" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Tipifarnib" displayName="Tipifarnib" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="12">
+        <items>
+          <wellItem type="Compound" concentration="50" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Lapatinib" displayName="Lapatinib" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="13" />
+      <well row="15" col="14">
+        <items>
+          <wellItem type="Compound" concentration="12.5" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Lapatinib" displayName="Lapatinib" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="15">
+        <items>
+          <wellItem type="Compound" concentration="3.125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Lapatinib" displayName="Lapatinib" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="16">
+        <items>
+          <wellItem type="Compound" concentration="0.78125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Lapatinib" displayName="Lapatinib" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="17">
+        <items>
+          <wellItem type="Compound" concentration="0.1953125" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Lapatinib" displayName="Lapatinib" colorArgb="-1476288" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="18">
+        <items>
+          <wellItem type="Compound" concentration="75" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ruxolitinib" displayName="Ruxolitinib" colorArgb="-1461952" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="19" />
+      <well row="15" col="20">
+        <items>
+          <wellItem type="Compound" concentration="25" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ruxolitinib" displayName="Ruxolitinib" colorArgb="-1461952" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="21">
+        <items>
+          <wellItem type="Compound" concentration="8.3333333333333339" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ruxolitinib" displayName="Ruxolitinib" colorArgb="-1461952" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="22">
+        <items>
+          <wellItem type="Compound" concentration="2.7777777777777781" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ruxolitinib" displayName="Ruxolitinib" colorArgb="-1461952" />
+          </wellItem>
+        </items>
+      </well>
+      <well row="15" col="23">
+        <items>
+          <wellItem type="Compound" concentration="0.925925925925926" concentrationUnits="mM">
+            <referenceItem type="Compound" description="Ruxolitinib" displayName="Ruxolitinib" colorArgb="-1461952" />
+          </wellItem>
+        </items>
+      </well>
+    </wells>
+  </wellStore>
+</plateMap>

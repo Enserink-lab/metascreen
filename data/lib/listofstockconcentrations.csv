@@ -1,0 +1,65 @@
+NUMBER;NAME;CONCENTRATION;UNIT
+2;Venetoclax;100;mM
+13;Methotrexate;200;mM
+23;Cladribine;100;mM
+24;Everolimus;30;mM
+28;Cytarabine;200;mM
+31;Daunorubicin;100;mM
+32;Lenalidomide;200;mM
+34;GSK 525762A (I-BET 762);50;mM
+35;Bosutinib;200;mM
+36;CCT196969;200;mM
+37;Entinostat (MS-275);200;mM
+38;Mocetinostat;20;mM
+40;Quizartinib;50;mM
+41;Amsacrine;20;mM
+43;ATRA;200;mM
+45;Idasanutlin;75;mM
+47;Ponatinib;25;mM
+52;Azacitidine;200;mM
+53;Decitabine;200;mM
+54;Bardoxolone Methyl;40;mM
+55;SNS-314 Mesylate;100;mM
+56;MK-8617;45;mM
+57;GSK2879552;65;mM
+58;Entospletinib (GS-9973);60;mM
+59;Vorasidenib (AG-881);200;mM
+61;Ibrutinib;200;mM
+63;LY2603618;30;mM
+64;YM155;125;mM
+65;G007-LK;190;mM
+66;Galunisertib (LY2157299);200;mM
+67;GDC-0449 (Vismodegib);200;mM
+68;AG-221 (Enasidenib);200;mM
+69;CHIR-98014;50;mM
+70;Volasertib;32;mM
+71;APO866 (FK866);20;mM
+72;NSC348884;150;mM
+73;Gilteritinib (ASP-2215);180;mM
+74;FK506 (Tacrolimus);100;mM
+75;Tipifarnib;200;mM
+77;MK-2206;30;mM
+78;Ro 5-3335;100;mM
+79;Abemaciclib mesylate (LY2835219);135;mM
+80;IRAK4 Inhibitor (Compound 26);100;mM
+82;Olaparib (AZD2281);100;mM
+83;Torin2;45;mM
+84;Dexamethasone (DHAP);200;mM
+89;Avagacestat;200;mM
+90;EC-70124;200;mM
+91;Idelalisib;200;mM
+92;Trametinib/Mekinist;30;mM
+93;SGC 0946;50;mM
+94;MI463;40;mM
+95;Panobinostat (LBH589);200;mM
+96;Bortezomib;10;mM
+98;WP1130;10;mM
+100;SB 203580;100;mM
+101;Lapatinib;100;mM
+102;Ruxolitinib;200;mM
+103;Chloroquine diphosphate salt;50;mM
+104;Ganetespib;100;mM
+106;Vemurafenib;200;mM
+107;Sapatinib;200;mM
+108;DJ34;100;mM
+115;WM-8014;200;mM
